@@ -97,7 +97,6 @@ desired effect
 @include('include.controlsidebar')
 
 </div>
-<!-- ./wrapper -->
-
+<!-- ./wrapper Mariano Simunic rama desarrollo-1-->
 </body>
 </html>
